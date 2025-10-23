@@ -1,0 +1,83 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+*.log
+*.sqlite3
+*.db
+
+# ======================
+# Virtual environments
+# ======================
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ======================
+# Jupyter Notebook
+# ======================
+.ipynb_checkpoints/
+jupyter_notebook_config.py
+.profile_default/
+.ipython/
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+.history/
+*.code-workspace
+
+# ======================
+# System files
+# ======================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ======================
+# Cache and temp
+# ======================
+*.cache/
+*.tmp
+*.swp
+*.bak
+*.old
+
+# ======================
+# Environments and secrets
+# ======================
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.json
+
+# ======================
+# Build / Distribution
+# ======================
+build/
+dist/
+*.whl
+
+# ======================
+# Tests
+# ======================
+.pytest_cache/
+.tox/
+.coverage
+coverage.xml
+htmlcov/
