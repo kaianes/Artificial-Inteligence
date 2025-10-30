@@ -6,11 +6,15 @@ This repository contains exercises from the **AI (Artificial Intelligence)** cla
 
 ##  Setup
 
-Each folder contains its **own virtual environment** (`.venv`).
+Each folder contains its **own virtual environment** (`.venv`) created with:
+
+```bash
+python -m venv venv
+```
+
 Before running any notebook or script, make sure to activate it:
 
 ```bash
-python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
 
@@ -18,6 +22,23 @@ Then install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+P.S: Naming the kernel:
+
+```bash
+pip install jupyter ipykernel
+```
+
+```bash
+python -m ipykernel install --user --name=venv --display-name "Python (venv)"
+```
+The venv will be available at the Jupyter Environment Sessions.
+
+Freezing the dependencies:
+
+```bash
+pip freeze > requirements.txt
 ```
 
 ---
