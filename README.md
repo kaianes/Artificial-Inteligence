@@ -15,7 +15,7 @@ python -m venv venv
 Before running any notebook or script, make sure to activate it:
 
 ```bash
-.\.venv\Scripts\Activate.ps1
+ .\venv\Scripts\activate
 ```
 
 Then install the required dependencies:
