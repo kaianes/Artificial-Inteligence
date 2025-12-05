@@ -2,6 +2,8 @@
 
 This repository contains exercises from the **AI (Artificial Intelligence)** class — covering topics such as Python basics, data analytics, agents, and more.
 
+Further theory explanations and algorithm descriptions can be found [in this Notion page](https://kaiane.notion.site/Artificial-Intelligence-274c701cca24800385c6c9aaf657dcc7?source=copy_link).
+
 ---
 
 ##  Setup
