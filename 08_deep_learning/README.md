@@ -1,8 +1,8 @@
 
 # Deep Neural Network (DNN) and Convolutional Neural Network (CNN) – Learning Summary
 
-- [**PART I — Deep Neural Network (DNN) for Multiclass Classification**](#part-i-—-deep-neural-network-dnn-for-multiclass-classification)
-- [**PART II — Convolutional Neural Networks (CNN) and Transfer Learning with VGG16**](#part-ii-—-convolutional-neural-networks-cnn-and-transfer-learning-with-vgg16)
+- [**PART I — Deep Neural Network (DNN) for Multiclass Classification**](#part-i--deep-neural-network-dnn-for-multiclass-classification)
+- [**PART II — Convolutional Neural Networks (CNN) and Transfer Learning with VGG16**](#part-ii--convolutional-neural-networks-cnn-and-transfer-learning-with-vgg16)
 
 # PART I — Deep Neural Network (DNN) for Multiclass Classification
 
